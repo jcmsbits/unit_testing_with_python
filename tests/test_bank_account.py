@@ -1,5 +1,6 @@
 import os
 from unittest import TestCase
+
 from src.bank_account import BankAccount
 
 class BankAccountTest(TestCase):    
